@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
+<div id="header">
   <a href="https://www.linkedin.com/in/luispedrovieira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -44,12 +44,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
 </div>
 
+#### 🖥️ My Stats:
 
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=30Massas&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=30Massas&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30Massas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30Massas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 😄 Enjoy Your Day
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
