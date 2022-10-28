@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 💻 About me:
 
 - Currently a 2nd year student at Minho University's Master Degree in Software Engineering
-- Find more about me at my personal <a href="luispedrovieira30.github.io" target="_blank">website</a>!
+- Find more about me at my personal <a href="https://luispedrovieira30.github.io" target="_blank">website</a>!
 
 ### 🛠️ Languages and Tools:
 
