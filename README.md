@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 💻 About me:
 
-- Currently a 1st year student at Minho University's Master Degree in Software Engineering
+- Currently a 2nd year student at Minho University's Master Degree in Software Engineering
 
 ### 🛠️ Languages and Tools:
 
