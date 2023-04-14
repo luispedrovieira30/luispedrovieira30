@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
 </div>
 
+<!--
 #### 🖥️ My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luispedrovieira30&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -54,3 +55,4 @@ Here are some ideas to get you started:
 ### 😄 Enjoy Your Day
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+-->
