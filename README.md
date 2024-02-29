@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 💻 About me:
 
-- Master in Software Engineering from Universidade do Minho, currently working at DTx - Colab
+- Master in Software Engineering from Universidade do Minho.
 - Find more about me at my personal <a href="https://luispedrovieira30.github.io" target="_blank">website</a>!
 
 <!--
